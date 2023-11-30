@@ -1,3 +1,3 @@
 Website for Arihant hospital
 
-Pixep Prime Tech
+Pixel Prime Tech
